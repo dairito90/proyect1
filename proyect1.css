@@ -1,12 +1,31 @@
-h1{
+#title{
   text-align: center;
    font-family: "courier new", times, serif;
-   color:green;
-
+   color:white;
+  text-shadow: 0 0 4px #000;
 }
 p{
   text-align: center;
 }
 .planet{
     display:inline-block;
+
+}
+.jumbotron{
+  background-image: url("image proyect/planet 1.jpg");
+  background-size:cover;
+}
+#above{
+  color:white;
+  text-shadow: 0 0 4px #000;
+}
+#pic{
+  color:green;
+  cursor:pointer;
+  list-style: none;
+
+}
+#pic2{
+  color:green;
+  cursor:pointer;
 }
